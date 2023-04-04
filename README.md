@@ -1,6 +1,6 @@
 Hi I'm Keshar 
 
-I’m interested in coding, web and cloud technologies. And I’m currently learning google cloud dev/engineer and working on gcp, web(python) projects.
+I’m interested in coding, web and cloud technologies. And I’m currently learning google cloud dev/engineer and working on gcp, web(python) projects and mainframe applications.
 
 Reach me on keshar0201@gmail.com Mobile - 8806501144
 
